@@ -6,7 +6,7 @@ This game utilzies Python's PrettyTable to tabulate score, so you need to make s
 ```bash
 pip install PTable
 
-# if using Python 3 you might have to do is like so:
+# note if using Python 3 you might have to run it like so:
 pip3 install PTable
 ```
 
