@@ -25,10 +25,10 @@ There are currently two game choices:
  To run the program you can copy the `main.py` source code and put it in your own file, or you can clone the repo.
  Either way once you have the file or its contents, simply just run it using python:
  ```bash
- python ./main.py
+ python main.py
  
  # note if using Python 3 you might have to run it like so:
- python3 ./main.py
+ python3 main.py
  ```
  
  # Problems or Features
